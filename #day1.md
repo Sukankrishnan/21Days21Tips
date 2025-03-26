@@ -2,4 +2,10 @@
 
 **Read the API documentation**
 
-Know the API documentation is available and make use of it by understanding the work flows.
+Know the API documentation is available and the contact person.
+
+Go through the entire document to make sure everything is understandable.
+
+Stop and ask questions whenever necessary.
+
+
