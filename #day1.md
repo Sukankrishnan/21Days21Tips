@@ -1,5 +1,3 @@
-#day1 tip of #21days21tips
-
 **Read the API documentation**
 
 Know the API documentation is available and the contact person.
