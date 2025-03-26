@@ -6,6 +6,6 @@
 
 3) Understand the basics such as endpoints, authentication, error handling and more.
 
-4) Stop and ask questions whenever necessary.
+4) Ask questions and clear doubts whenever necessary.
 
 
