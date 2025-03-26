@@ -1,2 +1,2 @@
-# #21TestingTipsFor#21Days
-I share 21 tips to API testing as part of The Test Chat
+# #21Days21Tips
+As part of the Test Chat initiative, I would like to share 21 tips based on my experience. Stay tuned!
