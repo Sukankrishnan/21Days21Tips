@@ -1,9 +1,11 @@
 **Read the API documentation**
 
-Know the API documentation is available and the contact person.
+1) Know the API documentation is available and the contact person.
 
-Go through the entire document to make sure everything is understandable.
+2) Go through the entire document.
 
-Stop and ask questions whenever necessary.
+3) Understand the basics such as endpoints, authentication, error handling and more.
+
+4) Stop and ask questions whenever necessary.
 
 
