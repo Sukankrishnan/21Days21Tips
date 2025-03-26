@@ -1,6 +1,6 @@
 The basic knowledge to test API is knowing their endpoints first. 
 
-APIs are structured around major endpoints such as creating, reading, updating, and deleting data.
+APIs are structured around major endpoints to access resources, perform actions or responds to user requests.
 
 If we take [RestfulBooker](https://restful-booker.herokuapp.com/apidoc/index.html) as an example
 
