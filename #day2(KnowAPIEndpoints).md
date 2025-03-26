@@ -4,6 +4,6 @@ APIs are structured around major endpoints such as creating, reading, updating, 
 
 If we take [RestfulBooker](https://restful-booker.herokuapp.com/apidoc/index.html) as an example
 
-https://restful-booker.herokuapp.com**/booking** - **Booking** is the endpoint that returns firstname, lastname, checkin date and checkout date.
+https://restful-booker.herokuapp.com**/booking** - **Booking** is the endpoint that returns the list of IDs available.
 
 https://restful-booker.herokuapp.com/booking**/:id** - Here **:id** is the endpoint that returns the details of the mentioned ID.
