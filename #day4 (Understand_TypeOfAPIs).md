@@ -1,6 +1,6 @@
 Understand what type of API used in the system.
 
-When working with APIs, knowing the type of request your API supports is important for building efficient and scalable systems. 
+When working with APIs, knowing the type of API supports is important for building efficient and scalable systems. 
 
 Here are some of the most commonly API types:
 1) **REST** - Uses HTTP (Application layer protocol) that are sent as human readable texts to access resources through dedicated endpoints. Ideal for web based applications.
