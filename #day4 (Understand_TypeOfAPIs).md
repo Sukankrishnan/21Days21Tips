@@ -2,7 +2,7 @@ Understand what type of API used in the system.
 
 When working with APIs, knowing the type of API supports is important for building efficient and scalable systems. 
 
-Here are some of the most commonly API types:
+Here are some of the most commonly used API types:
 1) **REST** - Uses HTTP (Application layer protocol) that are sent as human readable texts to access resources through dedicated endpoints. Ideal for web based applications.
 2) **GraphQL** - Developed by Facebook in 2015. A query language (not a protocol) that allows clients to request specific data from a single endpoint using HTTP POST requests. No over-fetching or under-fetching.
 3) **gRPC** -  Uses HTTP/2 for high-performance communication between microservices with structured data using Protocol Buffers (Protobuf).
