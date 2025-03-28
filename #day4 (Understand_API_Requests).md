@@ -1,4 +1,4 @@
-Understand what type of requests your API accepts
+Understand what type of requests your API accepts.
 
 When working with APIs, knowing the type of request your API supports is important for building efficient and scalable systems. 
 
