@@ -1,3 +1,5 @@
+Undertand the status code response from the server. Sometimes the status code and the status message might not be relevant. Follow API documentation or ask for help when it is unclear.
+
 The status code indicates the response code along with the response sent by the web server. It is a three-digit code that indicates various information.
 
 1. **1xx – Informational** – It indicates that the server has received the request and is in the process of sending the response. (100- Continue, 101- Switching protocols)
