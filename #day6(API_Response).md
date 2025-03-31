@@ -1,6 +1,6 @@
 Some considerations when checking the API responses
 
-1) **Status code** - Returns the proper response code and verify the API document for valid status codes.
+1) **Status code** - Returns the proper response code (1xx, 2xx, 3xx, 4xx, 5xx) and verify the API document for valid status codes.
 2) **Status message** - Reflects the status of the response with simple and understandable language.
 3) **Response body** - Validate response payloads from the server for structure, data types and content type such as JSON, XML.
 4) **Response Headers** - Include necessary headers such as Content-Type, Content-Length, server. 
