@@ -7,3 +7,5 @@ When sending API requests, few points to keep in mind and consult API documentat
 5) **Headers** - Include necessary headers such as Content-Type, Authorization, Accept, Content-Length, UserAgent. Pay attention to formats such as JSON or XML.
 6) **Rate limits** - APIs may have limitations. Know the limit and avoid exceeding limits. It may result to block requests.
 7) **Security considerations** - Keep API keys/Tokens safe and secure in private. Never ever expose to public repositories.
+
+   Click on [My blog](https://sukanyastestinsights.blogspot.com/2023/12/essential-checklist-for-http-requests.html) related to this topic.
