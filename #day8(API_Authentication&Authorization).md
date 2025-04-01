@@ -1,8 +1,8 @@
 Know the difference between authentication and authorization.
 
-  **Authentication** – Confirms who you are (e.g., logging in with a username & password).
-  
-  **Authorization** – Defines what you can access (e.g., a user can view data but not edit it).
+   **Authentication** – Confirms who you are (e.g., logging in with a username & password).
+   
+   **Authorization** – Defines what you can access (e.g., a user can view data but not edit it).
 
 Remember that you can be authenticated but not authorized to perform certain actions.
 
