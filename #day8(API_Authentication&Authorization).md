@@ -8,7 +8,7 @@ Remember that you can be authenticated but not authorized to perform certain act
 
 Both are crucial for API security, and here are 5 simple tips to implement them effectively:
 
-1) **Use strong suthentication methods** – Prefer OAuth 2.0, JWT (JSON Web Tokens), or API keys over basic authentication (username & password).
+1) **Use strong authentication methods** – Prefer OAuth 2.0, JWT (JSON Web Tokens), or API keys over basic authentication (username & password).
 
 2) **Follow the principle of least privilege** – Grant only the minimum access needed for users, reducing security risks.
 
