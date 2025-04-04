@@ -1,4 +1,4 @@
-Understand the status code response from the server. Sometimes, the status code and the status message are not relevant. Follow API documentation (Actual results may vary from the documentation - an example is given below) or ask for help when it is unclear.
+Understand the status code response from the server.
 
 The status code indicates the response code along with the response sent by the web server. It is a three-digit code that indicates various information.
 
@@ -9,7 +9,9 @@ The status code indicates the response code along with the response sent by the 
 5. **5xx – Server error** – It indicates the server finds the error while processing the request. (500 – internal server error, 502 – bad gateway, 503 – service
 unavailable)
 
-Let us take an example of Swagger PetStore API on how the API documentation and the actual result vary in terms of status code and message.
+**Problems that may occur (Follow API documentation  or ask for help when it is unclear):**
+1. The status code and the status message are not relevant. For example, the server responds with "200" as the status code and "Page Not Found" as the message.
+2. Actual results may vary from the documentation. Let us take an example of Swagger PetStore API on how the API documentation and the actual result vary in terms of status code and message.
 
 URL: https://petstore.swagger.io/#/store/deleteOrder. In this endpoint, as per the documentation, it should return a 400 or 404 error code. But we see 200 as the status code that it deletes the message.
 ![image](https://github.com/user-attachments/assets/8fbfe368-c349-4183-a7e4-8ed6edd9902c)
