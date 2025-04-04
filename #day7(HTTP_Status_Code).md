@@ -13,5 +13,5 @@ unavailable)
 1. The status code and the status message are not relevant. For example, the server responds with "200" as the status code and "Page Not Found" as the message.
 2. Actual results may vary from the documentation. Let us take an example of Swagger PetStore API on how the API documentation and the actual result vary in terms of status code and message.
 
-URL: https://petstore.swagger.io/#/store/deleteOrder. In this endpoint, as per the documentation, it should return a 400 or 404 error code. But we see 200 as the status code that it deletes the message.
-![image](https://github.com/user-attachments/assets/8fbfe368-c349-4183-a7e4-8ed6edd9902c)
+    URL: https://petstore.swagger.io/#/store/deleteOrder. In this endpoint, as per the documentation, it should return a 400 or 404 error code. But we see 200 as the status code that it deletes the message.
+    ![image](https://github.com/user-attachments/assets/8fbfe368-c349-4183-a7e4-8ed6edd9902c)
