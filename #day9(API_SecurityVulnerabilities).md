@@ -1,4 +1,4 @@
-Do update your knowledge in terms of API Security.
+Do update your knowledge in terms of API Security. Expand the horizon of API testing in terms of security beyond just verifying the HTTP requests and responses.
 
 The OWASP organization released the latest API Security Top 10 in 2023. These vulnerabilities of OWASP mostly threaten the APIs. 
 
