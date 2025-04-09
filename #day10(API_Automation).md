@@ -1,6 +1,6 @@
 API testing can be automated to an extent. It will help to reduce the manual task redundancy and get more time to focus on other areas.
 
-Some of the points to consider in effective API automation
+Some of the points to consider in effective API automation:
 
     1. Don't just focus on API works with valid data. Include invalid input, missing parameters, unauthorized access.
     
