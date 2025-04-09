@@ -1,4 +1,4 @@
-API testing can be automated to an extent. It will help to reduce the task redundancy manually and get more time to focus on other tasks.
+API testing can be automated to an extent. It will help to reduce the manual task redundancy and get more time to focus on other tasks.
 
 Some of the points to consider in effective API automation
 
