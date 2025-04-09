@@ -2,7 +2,7 @@ Don't rely on single tool when someone gives suggestion for API automation tools
 
 Many more tools available in the market. Explore and use which is feasible to you and your work.
 
-1.** Postman + Newman** - Most commonly used open source tool with CLI support. 
+1. **Postman + Newman** - Most commonly used open source tool with CLI support. 
 
 2. **RestAssured** - Java based tool for complex API testing.
 
