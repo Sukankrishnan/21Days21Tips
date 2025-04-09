@@ -1,6 +1,6 @@
 Don't rely on single tool when someone gives suggestion for API automation tools.
 
-Many more tools available in the market. Explore and use which is feasible to you and your work.
+Many more tools available in the market. Explore and use which is feasible to you and your work. I mention some of the commonly used tools.
 
   1. **Postman + Newman** - Most commonly used open source tool with CLI support. 
 
