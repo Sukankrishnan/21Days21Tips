@@ -18,5 +18,6 @@ I am giving an example on how to view the request and response in Network tab.
 
 **Resources**
 
-Official [chrome](https://developer.chrome.com/docs/devtools/network) document
+Official [chrome](https://developer.chrome.com/docs/devtools/network) document.
+
 A [blog](https://adequatica.medium.com/browser-devtools-as-an-essential-tool-for-api-testing-c2ace3fc47f2) from Andrey Enin on the comparison of Firefox and Chrome.
