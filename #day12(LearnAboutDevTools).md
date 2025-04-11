@@ -6,7 +6,7 @@ I am giving an example on how to test API in Network tab.
 
 2) Reload the page to capture all network requests, including API calls.
 
-3) Filter by XHR or Fetch to view just the API requests.
+3) Filter by Fetch/XHR to view just the API requests.
 
 4) Click on a request to inspect Request Headers, Payload, and Query Params.
 
