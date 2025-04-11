@@ -15,6 +15,7 @@ I am giving an example on how to test API in Network tab.
 6) Use the Preview tab for a formatted, readable view of the response.
 
 7) Use Preserve Log to track requests during navigation or refresh.
+   
 
   **Resources**
 
