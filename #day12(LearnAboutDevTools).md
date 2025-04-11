@@ -1,6 +1,6 @@
 To test the web API, one must know the importance of understanding network panel in DevTools.
 
-I am giving an example on how to view the request and response in Network tab.
+I am giving an example on how to test API in Network tab.
 
 1) Open DevTools (F12 or Right Click > Inspect) and head to the Network tab.
 
@@ -20,4 +20,4 @@ I am giving an example on how to view the request and response in Network tab.
 
 Official [chrome](https://developer.chrome.com/docs/devtools/network) document.
 
-A [blog](https://adequatica.medium.com/browser-devtools-as-an-essential-tool-for-api-testing-c2ace3fc47f2) from Andrey Enin on the comparison of Firefox and Chrome.
+A [blog](https://adequatica.medium.com/browser-devtools-as-an-essential-tool-for-api-testing-c2ace3fc47f2) from Andrey Enin on the comparison of Firefox and Chrome network .
